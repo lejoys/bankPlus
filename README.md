@@ -35,6 +35,11 @@ DBP is the token for bankplus. the info about DBP is [here](https://explorer.pop
 
 # todo
 
+## lend 
+
+## flashloan 
+
+
 ## cross-chain 
 
 using harmony cross-chain api to deposit, withdraw, borrow, payoff.
