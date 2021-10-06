@@ -27,8 +27,11 @@ DBP is the token for bankplus. the info about DBP is [here](https://explorer.pop
 
 ## borrow 
 
+[borrow example](https://explorer.pops.one/tx/0x4c5d36bf808880ee8eb29339dcb0ce378c19e3307d04ca0689ae4cc59fe15400)
 
 ## payoff  
+
+[payoff example](https://explorer.pops.one/tx/0xb7f3b5dda97719cf3fe88e01cfa253a90a53ca682c4f3152c17b06bd1c0bfa0f)
 
 # todo
 
