@@ -12,7 +12,7 @@ the deployed smart contract address is [0x60a69e767787d3903b51603f227392e3f5cbac
 
 # DBP 
 
-DBP is the token for bankplus. the info for DBP is [here](https://explorer.pops.one/address/0x5988a4e2ea68166e66dc7cb7b8ee5cad49a1f5df).
+DBP is the token for bankplus. the info about DBP is [here](https://explorer.pops.one/address/0x5988a4e2ea68166e66dc7cb7b8ee5cad49a1f5df).
 
 
 # usage
