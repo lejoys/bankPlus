@@ -1,5 +1,6 @@
 # bankPlus
-Decentralized bank for cross-chain borrowing and lending.
+
+Decentralized bank for multi-chain borrowing and lending.
 
 # deploy
 
